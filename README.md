@@ -1,2 +1,2 @@
 # project-robotic-2210240
-project robotic dr tanveer
+This project focuses on the design, kinematic analysis, and simulation of a SCARA (Selective Compliance Assembly Robot Arm) robot with three degrees of freedom (RRP configuration: Revolute-Revolute-Prismatic). SCARA robots are widely used in industrial applications such as high-speed pick-and-place operations, component insertion, and assembly tasks due to their horizontal compliance and vertical rigidity.
